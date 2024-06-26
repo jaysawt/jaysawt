@@ -30,6 +30,8 @@ Passionate Full Stack Developer with a focus on building scalable web applicatio
 
 ## ⚒️ Languages-Frameworks-Tools ⚒️
 <div align="left">
+
+  Currently I enjoy working with **PHP, Python, HTML, CSS, PostgreSQL & Firebase**
     <img src="https://skillicons.dev/icons?i=php,python,js,ts,html,css,github,git" /><br>
 </div>
 
